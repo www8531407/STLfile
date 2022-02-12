@@ -55,5 +55,6 @@ int main()
 	print_arry(arr,10);
 	cout<<"haha"<<endl;
 	cout<<"lize"<<endl;
+	cout<<"11111111111111111111"<<endl;
 	return 0;
 }
