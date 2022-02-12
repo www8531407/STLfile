@@ -54,5 +54,6 @@ int main()
 	bubble_sort(arr,10);
 	print_arry(arr,10);
 	cout<<"haha"<<endl;
+	cout<<"lize"<<endl;
 	return 0;
 }
