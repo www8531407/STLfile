@@ -56,5 +56,6 @@ int main()
 	cout<<"haha"<<endl;
 	cout<<"lize"<<endl;
 	cout<<"11111111111111111111"<<endl;
+	cout<<"22222222222222"<<endl;
 	return 0;
 }
